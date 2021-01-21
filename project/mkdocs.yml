@@ -1,0 +1,26 @@
+# Identification
+site_name: Documentation
+site_description: A ReadTheDocs template project.
+site_author: Austin Dial & Seaborn.
+
+# Set theme
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - json
+        - javascript
+        - rust
+        - python
+        - c
+        - c++
+        - c#
+        - assembly
+
+# Set navigation bar
+nav:
+    - Home: 'index.md'
+    - Philosophers: 'philosophers/'
+    - About: 'about.md'
+    - 'Issue Tracker': 'https://google.com/'
