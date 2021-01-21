@@ -1,4 +1,4 @@
-# Read the Docs Template
+# MkDocs Template
 
 This project serves as a quick-start project framework for rapidly deploying the ReadTheDocs project documentation software using the MkDocs engine. In this instance, the MkDocs project 'project' has already been deployed for you. You can continue with your deployment by editing the `*.md` files within the `/project` directory.
 
